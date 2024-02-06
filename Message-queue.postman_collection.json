@@ -1,0 +1,20 @@
+{
+	"info": {
+		"_postman_id": "aade80c3-7094-4b76-82ec-8a0af54c1caf",
+		"name": "Message-queue",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "17085372",
+		"_collection_link": "https://repaircms-ultimate.postman.co/workspace/My-Personal~e5dfea37-44bc-4ffc-a4c1-8630437292de/collection/17085372-aade80c3-7094-4b76-82ec-8a0af54c1caf?action=share&source=collection_link&creator=17085372"
+	},
+	"item": [
+		{
+			"name": "http://localhost:4000/purchase-course",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://localhost:4000/purchase-course"
+			},
+			"response": []
+		}
+	]
+}
